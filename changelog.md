@@ -1,4 +1,4 @@
-## October 29th, evening work session 
+# October 29th, evening work session 
 
 Today, I began adapting Rosie (@PBG)'s simple notebook for embedding and training with an MLP. Rosie's notebook does not have fine tuning integrated. Her next notebook I will look at does unfreeze the embeddings and fine tunes on the data set. This will be my methodology for fine tuning ESM-2 and ChemBERTa. These embeddings will be tuned (as well as the other embeddings that I concetenate them with) as the epoche process occurs. The MLP will slightly adjust its vector weights and learn from how its performance changes. It scores performance because of splitting. 
 
@@ -6,7 +6,7 @@ Splitting the data into train, test, and val enables this learning process. As t
 
 This project is revealing itself to me to do a database curation problem. The implementation of the model will actually be very straight forward with Rosie's code. The tricky part will be building a rich data base for it to learn on.
 
-# Ideas for enrichment:
+## Ideas for enrichment:
 
 1) Loosen what qualifies as an endocrine disruptor to endocrine engagers
 
