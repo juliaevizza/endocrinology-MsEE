@@ -14,4 +14,18 @@
 #These even have agonist and antagonists. That should definitely be a data field
 
 #https://www.ebi.ac.uk/chembl/
-#x
+#
+
+
+### this is a julia file encoding the process of querying and building the database. 
+
+## begin wuth developing a list of endocrine receptors (endonet)
+## beautifulsoup4
+
+import BeautifulSoup
+
+import pandas as pd
+
+url =  "https://raw.githubusercontent.com/kevaldodiya/EndoNet-Compilation/refs/heads/main/Bioinformatics/Dataset/final_resolve_3.csv"
+data = pd.read_csv(url)
+print(data.head())

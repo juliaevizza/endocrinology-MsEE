@@ -1,3 +1,22 @@
+# November 18th, afternoon work session
+Yippee!!! I finally have some graphs. The distrubution of cell types is larger than I thought and is not exclusive to reproductive tissue It actually is a majority of non reproductive tissue, including the immune cells I was hoping to see! very good. This "EndoNET" I need to read more about though. This seems larger and different from the browser website information, so I need to figure out what's going on a little better. 
+
+So far, I have successfully quieried a github housed raw csv file (will download to my github as well in case the warn signals of problems with the server get worse? ) and made graphs of how many data entries there are per receptor, per tissue type, and per hormone. They are very very very long lists, so my current graphs only represent the top 30 or so most frequent. I need to think through how I want to represent these sets better. Maybe decompose the info into which organ the tissue is associated with? 
+
+
+# Novemeber 17th, chat with Emma
+- sequences should be encoded with amino acid sequences
+- blast receptors if interest potentially
+- embed binding site as well 
+
+
+
+# November 16th, mid day work session
+
+Today, I scraped (? downloaded?) all endonet using the csv posted on on the github. I now need to figure out a way to inspect it and figure out how to to organize it into my own data base. My database will be a csv or tsv file (probably a csv) so that it easily survives the call stack. 
+
+
+
 # November 3rd, evening work session 
 
 Today, I began outlining some sources in querying.jl. I have no idea how I am going to go about scraping, but scheduled an OH with Pablo and Juheon to learn how they go about it.
