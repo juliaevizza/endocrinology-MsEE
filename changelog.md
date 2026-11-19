@@ -1,3 +1,10 @@
+# November 18th, evening work session
+Today, I read about what defines an endocrine hormone, as well as a hormones in general. There are endocrine hormones and exocrine hormones. Endocrine hormones are secreted directlt into the blood stream. Exocrine hormones are secreted via ducts, typically to sweat, milk, or salvia. We should NOT include any exocrine hormones in our hormone list, they don't typically have associated binding interactions. We want to include ALL non exocrine hormones. Anything that is signalling/binding hormone is an endocrine hormone. 
+
+And I sorted the information by less specific tissue types to better visualize what the data distribution is across different functional types of tissue
+
+![alt text](endo_net_by_tissue_type.png)
+
 # November 18th, afternoon work session
 Yippee!!! I finally have some graphs. The distrubution of cell types is larger than I thought and is not exclusive to reproductive tissue It actually is a majority of non reproductive tissue, including the immune cells I was hoping to see! very good. This "EndoNET" I need to read more about though. This seems larger and different from the browser website information, so I need to figure out what's going on a little better. 
 
